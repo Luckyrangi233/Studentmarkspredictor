@@ -1,4 +1,5 @@
 🎓 Student Success Predictor
+
 📌 Project Overview
 The Student Success Predictor is a machine learning project that predicts whether a student will Pass or Fail based on academic and lifestyle factors. The project follows a complete ML pipeline including data loading, preprocessing, feature scaling, model training, evaluation, and user-based prediction.
 
